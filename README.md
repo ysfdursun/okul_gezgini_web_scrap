@@ -1,0 +1,1 @@
+# okul_gezgini_web_scrap
